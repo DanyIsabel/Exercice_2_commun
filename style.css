@@ -19,4 +19,7 @@ h1 .titre{
     justify-content: right;
 } 
 
+body {
+    background-color: bisque;
+}
 
