@@ -1,0 +1,22 @@
+div{
+    display: flex;
+    justify-content: center;
+    
+    img{
+        height: 100%;
+        width: 600px;
+        object-fit: cover;
+        object-position: center;
+        padding: 20px;
+    }
+}
+h1{
+    text-align: right;
+}
+
+h1 .titre{
+    display: flex;
+    justify-content: right;
+} 
+
+
